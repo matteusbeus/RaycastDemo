@@ -24,7 +24,7 @@ uint8_t modNotLoaded = 0;
 
 #define NUM_MODS 1
 static char *modName[NUM_MODS] = {
-    "Track1.MOD"
+    "TRACK1.MOD"
 };
 
 static void start_song(int index)
@@ -60,7 +60,7 @@ int main(void)
     switch_banks();
     do_md_cmd4(MD_CMD_PUT_STR, 0x200000, TEXT_WHITE, 9, 14);
 
-    //start_song(mindex);
+    start_song(mindex);
 
     strcpy((char*)0x0C0000, "                      ");
     switch_banks();
