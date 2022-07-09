@@ -2,7 +2,7 @@
 
 ## Description
 
-This project shows an example of how the Sega Mega CD can be used to create a Raycast game with PCM MOD playback.  The enginen is based upon LCDWolf3D and uses an optimised implementation of FantomBitmap.
+This project shows an example of how the Sega Mega CD can be used to create a Raycast game with PCM MOD playback.  The engine is based upon LCDWolf3D and uses an optimised implementation of FantomBitmap.
 
 ## Features
 - Fantom Bitmap 512 colour
