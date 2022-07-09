@@ -2,7 +2,7 @@
 
 ## Description
 
-This project shows an example of how the Sega Mega CD can be used to create Raycast game based on LCDWolf3D using FantomBitmap (512 colour mode) with PCM MOD playback.
+This project shows an example of how the Sega Mega CD can be used to create a Raycast game with PCM MOD playback.  The enginee based upon LCDWolf3D and uses an optimised implementation of FantomBitmap.
 
 ## Features
 - Fantom Bitmap 512 colour
@@ -12,9 +12,10 @@ This project shows an example of how the Sega Mega CD can be used to create Rayc
 * Programming : Chilly Willy
 * Additional Code for Cosmetics (Hood / Gun / Updated Textures): Matt B (Matteusbeus)
 * Base Docker Code : Victor Luchits
-* Additional Docker Code for compability : Matt B (Matteusbeus)
-* Graphics: FreeDoom
-* MOD music: mindf*ck/mentasm (modarchive)
+* Additional Docker Code for compatibility : Matt B (Matteusbeus)
+* Graphics : FreeDoom
+* MOD music : Mindf*ck/Mentasm sourced via ModArchive
+* Testing : Barone
 
 ## "FantomBitmap" Credits
 * Programming : Oerg886
