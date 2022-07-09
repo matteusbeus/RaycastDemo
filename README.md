@@ -14,7 +14,7 @@ This project shows an example of how the Sega Mega CD can be used to create Rayc
 * Base Docker Code : Victor Luchits
 * Additional Docker Code for compability : Matt B (Matteusbeus)
 * Graphics: FreeDoom
-* MOD music: ?
+* MOD music: mindf*ck/mentasm (modarchive)
 
 ## "FantomBitmap" Credits
 * Programming : Oerg886
@@ -35,6 +35,7 @@ http://gendev.spritesmind.net/forum/viewtopic.php?f=22&t=1166
 
 http://gendev.spritesmind.net/forum/viewtopic.php?p=16003#p16003
 
+https://modarchive.org/index.php?request=view_by_moduleid&query=109599#texts
 
 ## License
 All original code is available under the MIT license.
