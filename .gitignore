@@ -1,0 +1,16 @@
+
+*.32x
+*.bin
+*.elf
+*.map
+*.o
+*.wad
+*.zip
+*.md
+*.xdelta
+*.iso
+*.cue
+*.elf
+.github
+.vscode
+.cd
